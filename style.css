@@ -1,0 +1,14 @@
+/*
+Theme Name: Thema_base
+Theme URI: http://growlib.com.br
+Author: Daniel Gonçalves
+Author URI: http://growlib.com.br
+Description: Um tema WordPress Feito do Zero.
+Version: 1.0
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
