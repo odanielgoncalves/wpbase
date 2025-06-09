@@ -5,17 +5,19 @@ Ideal para projetos personalizados, com estrutura minimalista, limpa e fácil de
 
 ## Estrutura de Pastas e Arquivos
 
+```text
 WPBASE/
-├── assets
-├── custom-port
-├── template-part
+├── assets/
+├── custom-port/
+├── template-part/
 ├── footer.php
 ├── functions.php
 ├── header.php
 ├── index.php
-├── package.json 
-├── screenshot.png 
-└── style.css 
+├── package.json
+├── screenshot.png
+└── style.css
+```
 
 
 ## Como usar
